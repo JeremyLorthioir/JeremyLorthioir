@@ -11,8 +11,7 @@
 
 - 💻 I'm a full stack web developer
 - 🎨 I'm a self-taught UI designer
-- 📱 I make apps for Android and iOS
-- 🎓 I'm a Computer Science student (Graduated in June 2019)
+- 🎓 I'm a Computer Science graduated person
 - 🌐 You can see some of my projects on [my portfolio](https://jeremy-lorthioir.imfast.io)
 
 ## 🔥 My contribution streak
